@@ -1,4 +1,4 @@
-# Article ( https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer)
+# <a href = 'https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer'>What is it like to be a software engineer</a>
 
 The articles talks about the aspects of being a software engineer. It briefly mentions the workflow of a software engineer and a typical workday. As a aspiring software engineer, it provides a great insight on a typical day for an engineer. 
 
